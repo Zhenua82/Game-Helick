@@ -35,7 +35,7 @@ listener = keyboard.Listener(
     on_release = None)
 listener.start()
 
-MAP_W, MAP_H = 22, 12
+MAP_W, MAP_H = 14, 8
 TICK_SLEEP = 0.05
 TREE_UPDATE = 40
 FIRES_UPDATE = 40
